@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Django User DB LiveDev"
+    id="id-fe775515ddb445f7996f8f7d1efc4d63"
+    documentation="Used for testing in-swarm deployment moves.  MariaDB."/>

@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Django User DB"
+    id="id-e0cbd5b8d98441d9bafcfbe78e4095a6"
+    documentation="Needs management design.  MariaDB."/>

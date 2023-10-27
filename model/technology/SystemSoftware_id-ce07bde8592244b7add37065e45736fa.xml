@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gRPC command-line script"
+    id="id-ce07bde8592244b7add37065e45736fa"
+    documentation="This script exists for testing the gRPC connection without involving the website.  &#xA;Current location inside container: /website/glycam-django/glycamweb/json_api/bin/do_raw_grpc_call.py&#xA;Current location outside container: V_2/Django/glycam-django/glycamweb/json_api/bin/do_raw_grpc_call.py"/>

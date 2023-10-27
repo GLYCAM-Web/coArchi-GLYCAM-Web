@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UserDB DevEnv Primary"
+    id="id-f1f0b56d1a114e898ee12c3eab7a48d6"
+    documentation="Fixture managed.  Used for development.  MariaDB."/>

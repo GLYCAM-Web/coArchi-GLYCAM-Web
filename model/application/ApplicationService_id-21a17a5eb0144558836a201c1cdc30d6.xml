@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Store and Report Return Value"
+    id="id-21a17a5eb0144558836a201c1cdc30d6"
+    documentation="While it is kind to tell a user the outcome of a service, sometimes the service doesn't run at all.  The Package, in part, acts as the place to store information from a level higher.  "/>

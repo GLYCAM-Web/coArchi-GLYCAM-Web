@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gemsModules gRPC code"
+    id="id-5e747d6ebdcf4addbcbfc92ed3449c55"
+    documentation="In the deprecated gemsModules code, this is mostly in batchcompute/slurm, but most of this behavior should be abstracted and moved to gemsModules/networkconnections."/>

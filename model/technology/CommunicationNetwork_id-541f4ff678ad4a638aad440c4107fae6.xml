@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proxy Outward"
+    id="id-541f4ff678ad4a638aad440c4107fae6"
+    documentation="gw-proxy-net in docker compose files"/>

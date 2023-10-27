@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Submit the MDaaS job"
+    id="id-ca0206a4115549f780e61056a2bf1a03"
+    documentation="This is where gRPC gets involved."/>

@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Slurm Backend"
+    id="id-c3a2ce92e3e2470298581a0e70710a21"
+    documentation="gw-slurm-backend-net"/>

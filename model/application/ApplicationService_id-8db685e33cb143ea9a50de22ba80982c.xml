@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Store and Report Next Object for Action"
+    id="id-8db685e33cb143ea9a50de22ba80982c"
+    documentation="Be able to keep up with the next Package to be run and be able to present that package to some other component that needs the information.&#xA;&#xA;This shoud be READ OR WRITE.  It should be possible to get the next object for reading only or to get the next one for writing."/>

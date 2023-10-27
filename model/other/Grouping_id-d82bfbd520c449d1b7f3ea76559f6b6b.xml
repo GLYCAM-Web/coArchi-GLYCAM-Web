@@ -1,0 +1,5 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MolStar"
+    id="id-d82bfbd520c449d1b7f3ea76559f6b6b"
+    documentation="Node-JS based stack for serving Mol* visualizations."/>

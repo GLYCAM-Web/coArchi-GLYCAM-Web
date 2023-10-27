@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Add and Remove Packages"
+    id="id-e386599c453246efae29ebdcd2185196"
+    documentation="Add packages according to an order of operations.  Also remove them intelligently, with respect to OoO rules."/>

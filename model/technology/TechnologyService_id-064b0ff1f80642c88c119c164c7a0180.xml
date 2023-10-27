@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gRPC Server for the Delegator"
+    id="id-064b0ff1f80642c88c119c164c7a0180"
+    documentation="The code for creation of this service is part of the DevEnv, not part of GEMS."/>

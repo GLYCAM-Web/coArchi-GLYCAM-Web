@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Store and Report After-Action (Next State)"
+    id="id-73fd575fe3fa46f0a5f55fd349f78711"
+    documentation="Within an order of operations, it might be necessary to alter following operations based on an outcome.  This allows a response to tell the Servicer what to do next.  For example, assume the service failed.  Should all service processing stop?  Should some services not be run?  This is the place to store that info."/>

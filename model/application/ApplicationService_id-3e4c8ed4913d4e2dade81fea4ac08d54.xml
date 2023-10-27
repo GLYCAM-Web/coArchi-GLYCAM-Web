@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Extract Action Objects as non-tree list"
+    id="id-3e4c8ed4913d4e2dade81fea4ac08d54"
+    documentation="This tree exists for the purpose of facilitating the fulfillment of requests in Service objects.  It helps to decouple services from each other and from the JSON API interface.  &#xA;&#xA;This method's purpose is to facilitate turning the contents of the tree back into a JSON object.  It might need to be an abstract method that must be defined by the inheriting class.  Possibly, this functionality should be a separate thing.&#xA;&#xA;For example, once the Service Package Tree is completed, with all needed information stored in the Service objects, a complete Services object will be created - it containing the list of Service objects - to be later inserted into the outgoing JSON object.  "/>

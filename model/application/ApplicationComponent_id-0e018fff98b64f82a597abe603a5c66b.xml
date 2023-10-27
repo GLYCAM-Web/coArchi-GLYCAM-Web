@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Set up MDaaS Directory"
+    id="id-0e018fff98b64f82a597abe603a5c66b"
+    documentation="Copy in user input files.  Dump JSON, etc., as needed.  At this step, these copy procedures should be limited to general MD requirements."/>

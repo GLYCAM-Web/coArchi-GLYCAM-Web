@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Store and Report Action Object Metadata"
+    id="id-c5e6be474f4341b5a5abc4ceb7d0817c"
+    documentation="This can be anything that is needed by the system but not necessarily by the user.  For example, the amount of memory to request or the server type to use.  It could contain Slurm partition info (long job?  Short job?) or a directive that the service be run as a detached sub-process."/>

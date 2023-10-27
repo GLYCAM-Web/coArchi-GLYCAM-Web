@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Store an Action Associated Object (e.g. Service Request)"
+    id="id-c6eca49a4cc548aa89abc0610398ef49"
+    documentation="This is the actual Action Object that triggers or records an action.  A service to be run is given as an example.  But, the response that gets returned is another example.   The objects could be database queries or results from database queries, and so forth.  "/>

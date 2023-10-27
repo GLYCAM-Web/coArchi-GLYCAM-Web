@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Store Packages Per Order of Operations"
+    id="id-558f8949e94442428abd882cae406611"
+    documentation="Draft classes exist for this.  At its core, it must store its Packages in some manner that facilitates access/action according to an order of operations.  Currently, the OoO rule set is small.  "/>

@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Slurm Outward"
+    id="id-6c90e7fb24b540328b5bd94767e610a7"
+    documentation="gw-slurm-frontend-net"/>

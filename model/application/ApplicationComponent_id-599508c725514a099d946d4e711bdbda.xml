@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluate Amber Input Files"
+    id="id-599508c725514a099d946d4e711bdbda"
+    documentation="Validate files. Gauge system size, estimate run time, etc."/>
