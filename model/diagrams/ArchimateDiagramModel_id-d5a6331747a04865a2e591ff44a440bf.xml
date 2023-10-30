@@ -190,8 +190,8 @@
           targetConnections="id-39d4fc3be17546db9f00e576d4423182 id-b7dd1833edcd4f64b832c7c686ec17a9"
           type="1">
         <bounds
-            x="61"
-            y="144"
+            x="36"
+            y="204"
             width="120"
             height="55"/>
         <archimateElement
@@ -215,7 +215,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-2d3ba30502c040c586f6082cb190af5b"
-          targetConnections="id-ad54f41fa03c4f5b860eb4d726325996 id-6272e04bd8944b25933816b814cd151c id-e2611cda39464e5ca880d8875dbfbed9 id-5a2521dd0d8143888b3091d2eaf7cf15 id-12b9dfcf6145435e8e43e57c42d029a6"
+          targetConnections="id-ad54f41fa03c4f5b860eb4d726325996 id-6272e04bd8944b25933816b814cd151c id-e2611cda39464e5ca880d8875dbfbed9 id-5a2521dd0d8143888b3091d2eaf7cf15 id-12b9dfcf6145435e8e43e57c42d029a6 id-99e3e74a848f43e6b5985a196ce926d7"
           type="1">
         <bounds
             x="348"
@@ -286,13 +286,16 @@
             id="id-e2611cda39464e5ca880d8875dbfbed9"
             source="id-395c24fb45a448dca14f851ba799dc2f"
             target="id-2d3ba30502c040c586f6082cb190af5b">
+          <features
+              name="labelExpression"
+              value="DevEnv"/>
           <archimateRelationship
               xsi:type="archimate:ServingRelationship"
               href="ServingRelationship_id-48fd6566c30b4ab5a81922aadc808b90.xml#id-48fd6566c30b4ab5a81922aadc808b90"/>
         </sourceConnections>
         <bounds
-            x="192"
-            y="66"
+            x="36"
+            y="102"
             width="120"
             height="79"/>
         <archimateElement
@@ -1271,6 +1274,18 @@
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-0da1469505eb48cca25d5e6a7e454044.xml#id-0da1469505eb48cca25d5e6a7e454044"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-99e3e74a848f43e6b5985a196ce926d7"
+          source="id-310c33a58a184f21b7116d82225d9bf9"
+          target="id-2d3ba30502c040c586f6082cb190af5b">
+        <features
+            name="labelExpression"
+            value="Swarm"/>
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-d202f8069f6b4064ab8d02ca40ab3c2b.xml#id-d202f8069f6b4064ab8d02ca40ab3c2b"/>
       </sourceConnections>
       <bounds
           x="216"
