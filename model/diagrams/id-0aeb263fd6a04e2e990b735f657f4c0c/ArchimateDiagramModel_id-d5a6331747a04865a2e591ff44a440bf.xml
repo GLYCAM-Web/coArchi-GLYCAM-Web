@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SYSTEMS - DevEnv Stacks Containers Networks"
+    name="DevEnv Stacks Containers Networks"
     id="id-d5a6331747a04865a2e591ff44a440bf">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

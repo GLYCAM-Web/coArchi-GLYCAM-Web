@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SYSTEMS - Edge Router"
+    name="Edge Router"
     id="id-375dbdb4995e4865aa244fc7e8f94a41">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

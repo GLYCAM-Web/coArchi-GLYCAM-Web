@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SYSTEMS - gRPC Overview"
+    name="gRPC Overview"
     id="id-73b11c087c904c8e83df60d20c604f9c">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

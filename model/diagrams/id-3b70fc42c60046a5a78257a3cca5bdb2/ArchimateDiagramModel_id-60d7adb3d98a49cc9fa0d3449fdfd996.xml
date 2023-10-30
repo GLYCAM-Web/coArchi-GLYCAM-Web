@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEMS - API Overview"
+    name="API Overview"
     id="id-60d7adb3d98a49cc9fa0d3449fdfd996">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

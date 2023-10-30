@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SYSTEMS - User DB Management"
+    name="User DB Management"
     id="id-a41f3ec7d8394c25b9519cd089d09f2a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ENTERPRISE - Systems-and-Software Logical View"
+    name="Systems-and-Software Logical View"
     id="id-ca0e774e149b42399ff11bcd8c79e38f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

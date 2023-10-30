@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEMS - Application Flow"
+    name="Application Flow"
     id="id-a4daa650a0494afd98a39f9b824610dc"
     documentation="Overall flow of the core components of a GEMS Module application.">
   <children

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEMS - Service-Task-Response Detail"
+    name="Service-Task-Response Detail"
     id="id-1be0bccf7bff4822b601ee0edb2524c5">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

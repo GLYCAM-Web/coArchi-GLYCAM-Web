@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ENTERPRISE - gRPC-Delegator Container"
+    name="gRPC-Delegator Container"
     id="id-2ac1afa93d40453b9aa0b1ab1c54c763">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

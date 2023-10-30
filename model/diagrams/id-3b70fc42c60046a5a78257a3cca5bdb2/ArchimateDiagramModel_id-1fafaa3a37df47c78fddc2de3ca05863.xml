@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEMS - MDaaS Developer Overview"
+    name="MDaaS Developer Overview"
     id="id-1fafaa3a37df47c78fddc2de3ca05863">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

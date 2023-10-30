@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SYSTEMS - Storage for Live Sites"
+    name="Storage for Live Sites"
     id="id-a7fe8e384ab34e90b76dd7b74b312e1a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SYSTEMS - H A Proxy for Swarms"
+    name="H A Proxy for Swarms"
     id="id-2bd9755409784beab8ecfaa265dc0619">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

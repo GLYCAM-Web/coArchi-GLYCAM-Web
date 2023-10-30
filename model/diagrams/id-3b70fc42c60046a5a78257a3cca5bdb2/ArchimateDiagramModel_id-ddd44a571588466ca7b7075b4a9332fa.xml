@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEMS - Core Module Roles"
+    name="Core Module Roles"
     id="id-ddd44a571588466ca7b7075b4a9332fa">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
