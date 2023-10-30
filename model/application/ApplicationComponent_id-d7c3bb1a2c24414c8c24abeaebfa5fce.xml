@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entity"
+    id="id-d7c3bb1a2c24414c8c24abeaebfa5fce"
+    documentation="This is a component of gemsModules.  There can be many Entities.  Entities are spcified in the JSON API and perform Services requested therein."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Abstract API classes"
+    id="id-235c378c4c944187b2bed5b0f629f96b"
+    documentation="The parts of the API that are common to all gemsModules are here except for the parts that are in Project."/>

@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0a5f1c0e6de04a09946dac0d53a61bd9"
+    documentation="The gRPC server keeps the connection open until a response is delivered.">
+  <source
+      xsi:type="archimate:TechnologyFunction"
+      href="TechnologyFunction_id-55c438db29f44d46a5d8dfed9bd5f995.xml#id-55c438db29f44d46a5d8dfed9bd5f995"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-8286b70a20d24116ad165da72edd4b92.xml#id-8286b70a20d24116ad165da72edd4b92"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delegator"
+    id="id-ad789509b9e943c2a9ad695cedd486a7"
+    documentation="This is a component of gemsModules.  There is only one Delegator.  The Delegator determines which Entity should receive any given JSON request.  In some cases, the Delegator can also be an Entity.  For example, it might be asked to provide the Service &quot;list known Entitites&quot;."/>

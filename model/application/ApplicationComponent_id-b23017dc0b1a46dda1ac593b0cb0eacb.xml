@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Base API Data Manipulations"
+    id="id-b23017dc0b1a46dda1ac593b0cb0eacb"
+    documentation="This includes methods for the transaction as well as the abstracted transaction manager, request manater, etc."/>

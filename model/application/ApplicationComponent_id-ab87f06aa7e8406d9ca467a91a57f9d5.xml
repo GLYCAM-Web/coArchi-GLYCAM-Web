@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OS Utilities"
+    id="id-ab87f06aa7e8406d9ca467a91a57f9d5"
+    documentation="Filesystem and network operations and whatever else is OS oriented."/>

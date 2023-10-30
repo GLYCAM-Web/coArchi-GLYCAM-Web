@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AAOP Tree (ABC)"
+    id="id-8bf28c1b5c8b446d9c54b6c282d70f71"
+    documentation="This class might have too many responsibilities, but maybe not.  This is an abstract base class designed to hold objeccts that must be acted upon in certain orders, holding them in such a manner as to simplify maintaining the order of operations."/>

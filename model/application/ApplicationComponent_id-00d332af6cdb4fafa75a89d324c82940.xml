@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Action Associated Object Package (ABC)"
+    id="id-00d332af6cdb4fafa75a89d324c82940"
+    documentation="A package should store some Action Object, for example a service to be performed, as well as any metadata needed by the software to ensure that the Action Object is processed correctly.&#xA;&#xA;Two types of metadata are shown here, but there could be others as needed."/>

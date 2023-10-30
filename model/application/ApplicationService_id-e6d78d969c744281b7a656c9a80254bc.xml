@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Make Skeleton and Deep Copies of Self"
+    id="id-e6d78d969c744281b7a656c9a80254bc"
+    documentation="A skeleton copy needs to be defined better than its being defined here.  That definition can happen later.  For now, an example.  Each Response Package needs to contain certain elements from its corresponding Service Package.  These include the UUID assigned to the service and the name of the service.  Technically, only the ID is needed, but user and developer sanity might be better maintained by copying a little more than that.  &#xA;&#xA;A deep copy is an exact copy of all the data, all the way down."/>

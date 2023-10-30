@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Django Outward"
+    id="id-4b2d0836d38649f79f75e104bf113ad9"
+    documentation="gw-django-frontend-net in the docker compose files"/>

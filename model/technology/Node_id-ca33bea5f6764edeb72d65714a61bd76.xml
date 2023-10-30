@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Django Fixture DB"
+    id="id-ca33bea5f6764edeb72d65714a61bd76"
+    documentation="The fixtures database used by the website.  MariaDB."/>

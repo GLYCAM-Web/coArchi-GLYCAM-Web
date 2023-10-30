@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Slurm Head Container"
+    id="id-f19301d80838442fb6c94cbc88886745"
+    documentation="This is the Slurm Head that is in the DevEnv"/>

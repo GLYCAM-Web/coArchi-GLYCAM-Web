@@ -1,0 +1,5 @@
+<archimate:CommunicationNetwork
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Django-gRPC"
+    id="id-755d64d8f10245e4838ea883d324af49"
+    documentation="gw-grpc-net"/>

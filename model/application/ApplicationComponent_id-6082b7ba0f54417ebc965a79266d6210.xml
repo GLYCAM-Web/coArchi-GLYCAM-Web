@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Core Services ABC"
+    id="id-6082b7ba0f54417ebc965a79266d6210"
+    documentation="Services like Marco and List_Services are abstracted in Common and then get specialized for each Entity."/>

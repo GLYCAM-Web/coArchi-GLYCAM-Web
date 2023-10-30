@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gRPC code in GEMS but outside gemsModules"
+    id="id-dd1ac487462e4f2b95a7527affa4a3d9"
+    documentation="In folder ${GEMSHOME}/gRPC"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Store and Report Status of Action Object"
+    id="id-e6b66a61b5884a76bd67da64db02d8bd"
+    documentation="Statuses might include &quot;already ran&quot;, &quot;waiting to run&quot;, &quot;succeeded&quot;, &quot;failed&quot; and such.  "/>
