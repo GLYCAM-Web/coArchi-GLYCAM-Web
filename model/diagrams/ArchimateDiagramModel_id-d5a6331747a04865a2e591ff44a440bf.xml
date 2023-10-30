@@ -286,9 +286,6 @@
             id="id-e2611cda39464e5ca880d8875dbfbed9"
             source="id-395c24fb45a448dca14f851ba799dc2f"
             target="id-2d3ba30502c040c586f6082cb190af5b">
-          <features
-              name="labelExpression"
-              value="DevEnv"/>
           <archimateRelationship
               xsi:type="archimate:ServingRelationship"
               href="ServingRelationship_id-48fd6566c30b4ab5a81922aadc808b90.xml#id-48fd6566c30b4ab5a81922aadc808b90"/>
@@ -1207,6 +1204,9 @@
               id="id-12b9dfcf6145435e8e43e57c42d029a6"
               source="id-02b26114aada4a6aa56cc6af52c9f93b"
               target="id-2d3ba30502c040c586f6082cb190af5b">
+            <features
+                name="labelExpression"
+                value="DevEnv"/>
             <archimateRelationship
                 xsi:type="archimate:ServingRelationship"
                 href="ServingRelationship_id-8c03fae8439447a2a4218a81951098cf.xml#id-8c03fae8439447a2a4218a81951098cf"/>
