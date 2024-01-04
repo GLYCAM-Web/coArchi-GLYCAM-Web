@@ -22,7 +22,7 @@
     </sourceConnections>
     <bounds
         x="36"
-        y="312"
+        y="181"
         width="110"
         height="150"/>
     <archimateElement
@@ -54,7 +54,7 @@
     </sourceConnections>
     <bounds
         x="31"
-        y="155"
+        y="24"
         width="120"
         height="91"/>
     <archimateElement
@@ -64,7 +64,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5a74c815efc040b29741a9dded801b53"
-      targetConnections="id-1bef600f462342b397580159a78174a3 id-645f45fdacd3409a8a605b524fb1ff0d">
+      targetConnections="id-1bef600f462342b397580159a78174a3 id-645f45fdacd3409a8a605b524fb1ff0d id-13c7d3c47dec4103bd76ebf6fb13c75a">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-77f6cf8d0eb24d0ea0e01ff22900932d"
@@ -108,7 +108,7 @@
     </sourceConnections>
     <bounds
         x="264"
-        y="155"
+        y="24"
         width="120"
         height="80"/>
     <archimateElement
@@ -175,7 +175,7 @@
     </sourceConnections>
     <bounds
         x="228"
-        y="312"
+        y="181"
         width="96"
         height="80"/>
     <archimateElement
@@ -223,7 +223,7 @@
     </sourceConnections>
     <bounds
         x="504"
-        y="155"
+        y="24"
         width="409"
         height="307"/>
     <children
@@ -354,6 +354,19 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-8b930a422ec04ca08588a6745672177d"
         targetConnections="id-6619e3e44fa2463891dbb23322f5e785 id-aaca81d321064c32841c4e94bea72895 id-a93feb33ee1045e7bb93f7ba7b22123f id-ec28eedbdd4747c2bbca2763e02b4f1d id-af0d6ec217844b4ab1e111805ecb431f">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-13c7d3c47dec4103bd76ebf6fb13c75a"
+          textPosition="2"
+          source="id-8b930a422ec04ca08588a6745672177d"
+          target="id-5a74c815efc040b29741a9dded801b53">
+        <features
+            name="labelExpression"
+            value="Serves Website"/>
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-70f18919c2fe4c929a7f5b78e26f5c54.xml#id-70f18919c2fe4c929a7f5b78e26f5c54"/>
+      </sourceConnections>
       <bounds
           x="24"
           y="23"
