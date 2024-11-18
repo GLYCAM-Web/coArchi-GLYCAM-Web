@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-5c3d684fdbcf4c87912b11a79512d625"
-      name="Scientific    Process Layer"
+      name="Scientific Process Layer"
       textAlignment="1">
     <features
         name="deriveElementLineColor"
@@ -20,7 +20,7 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-ed8d07acdef446d3a448c62e2f1b2a20"
-      name="Translation  Layer"
+      name="Translation Layer"
       textAlignment="1">
     <features
         name="deriveElementLineColor"
@@ -44,17 +44,40 @@
         y="48"
         width="457"
         height="181"/>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-81de4374714142f3bda880f409e675cd"
+        textAlignment="1"
+        content="CLI Users trigger GEMS">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
+      <sourceConnections
+          id="id-7260f8a1ea044b8fa77aec87e27b6509"
+          source="id-81de4374714142f3bda880f409e675cd"
+          target="id-0862ac448c9b44298a2d7d750ec3041b"/>
+      <bounds
+          x="12"
+          y="108"
+          width="85"
+          height="61"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-55de85c2a4cb4163b4ac8a469df8a974"
-      targetConnections="id-30100b9cfc2345b8a72d9c6bdaae8f76 id-e496178609d9415e99c8b39cadd772c8 id-b4d385cd58e14608b046c0c4c450c8be id-0862ac448c9b44298a2d7d750ec3041b"
-      type="1">
+      targetConnections="id-b4d385cd58e14608b046c0c4c450c8be id-30100b9cfc2345b8a72d9c6bdaae8f76 id-0862ac448c9b44298a2d7d750ec3041b id-e496178609d9415e99c8b39cadd772c8">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e9bcbb2fb9e9475ab03d916a955208b5"
+        targetConnections="id-a7151f9b29c541c889d63b2884442e36"
         source="id-55de85c2a4cb4163b4ac8a469df8a974"
         target="id-26c076a6f3d846538dfdd1444c1702ba">
+      <bendpoints
+          startX="24"
+          startY="-63"
+          endX="-54"
+          endY="57"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-b0bfefbdde01401ead49cc2e39a58f39.xml#id-b0bfefbdde01401ead49cc2e39a58f39"/>
@@ -71,8 +94,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-26c076a6f3d846538dfdd1444c1702ba"
-      targetConnections="id-e9bcbb2fb9e9475ab03d916a955208b5 id-45517798868340cda64bc1fbec994148 id-279e2c47f070438f8e193461d8d43e3d"
-      type="1">
+      targetConnections="id-279e2c47f070438f8e193461d8d43e3d id-45517798868340cda64bc1fbec994148 id-e9bcbb2fb9e9475ab03d916a955208b5">
     <bounds
         x="228"
         y="156"
@@ -84,13 +106,17 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e659a48b72a242f5b712cb6bb3588b58"
-      type="1">
+      id="id-e659a48b72a242f5b712cb6bb3588b58">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-30100b9cfc2345b8a72d9c6bdaae8f76"
         source="id-e659a48b72a242f5b712cb6bb3588b58"
         target="id-55de85c2a4cb4163b4ac8a469df8a974">
+      <bendpoints
+          startX="-12"
+          startY="-63"
+          endX="-168"
+          endY="57"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-b551e238a67e4e868841bb5b705d8ecc.xml#id-b551e238a67e4e868841bb5b705d8ecc"/>
@@ -106,8 +132,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8ccb078b93cf4bc79e29b2bc91b6af05"
-      type="1">
+      id="id-8ccb078b93cf4bc79e29b2bc91b6af05">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e496178609d9415e99c8b39cadd772c8"
@@ -156,8 +181,14 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-0862ac448c9b44298a2d7d750ec3041b"
+        targetConnections="id-7260f8a1ea044b8fa77aec87e27b6509"
         source="id-17e97dce218a421a8d6e4677b589a3b7"
         target="id-55de85c2a4cb4163b4ac8a469df8a974">
+      <bendpoints
+          startX="48"
+          startY="93"
+          endX="-108"
+          endY="-99"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_id-65ca5da149c34badbfa8e5eb851e9319.xml#id-65ca5da149c34badbfa8e5eb851e9319"/>
@@ -218,5 +249,23 @@
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-522fe2360acc4c0c94bbc9bfcf457ecd.xml#id-522fe2360acc4c0c94bbc9bfcf457ecd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-f8c0a4ff38944e07829ce4dc1fd99974"
+      textAlignment="1"
+      content="GEMS serves GLYCAM-Web&#xA;">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <sourceConnections
+        id="id-a7151f9b29c541c889d63b2884442e36"
+        source="id-f8c0a4ff38944e07829ce4dc1fd99974"
+        target="id-e9bcbb2fb9e9475ab03d916a955208b5"/>
+    <bounds
+        x="336"
+        y="216"
+        width="98"
+        height="49"/>
   </children>
 </archimate:ArchimateDiagramModel>

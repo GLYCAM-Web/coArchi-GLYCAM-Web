@@ -38,6 +38,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-cf790f1c8198474ea5628a9796491866"
+          targetConnections="id-9b8c3c844c0249ec88e4659b5d4bd7e0"
           source="id-94b5f6762ae841849598c726e603ce4d"
           target="id-c80a1ed9c14e427fb41d870d7b03a933">
         <archimateRelationship
@@ -47,6 +48,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-b2314839b7b842dd95efcb5687a0b41b"
+          targetConnections="id-9ace4958db694aeb996de46fc5c9d49b"
           source="id-94b5f6762ae841849598c726e603ce4d"
           target="id-fe1bb872d784497abe346fc867c5252c">
         <archimateRelationship
@@ -82,6 +84,10 @@
           id="id-f13541edcc274e01824f9bfe10f171f1"
           source="id-f55fca42766c4fb7ab660edf37d60369"
           target="id-ae468259fc8d425a88328cc3bfcdc9fd">
+        <sourceConnections
+            id="id-75855090a1d04d7c9a13d3c04fa62d3b"
+            source="id-f13541edcc274e01824f9bfe10f171f1"
+            target="id-c125dcfeff604803bc69b311a8ffd5eb"/>
         <archimateRelationship
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_id-6528f4672c4e47738e0ae90882a05f7c.xml#id-6528f4672c4e47738e0ae90882a05f7c"/>
@@ -180,6 +186,21 @@
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-50231c3aaffe48729a7073cf412e351f.xml#id-50231c3aaffe48729a7073cf412e351f"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-c125dcfeff604803bc69b311a8ffd5eb"
+        targetConnections="id-75855090a1d04d7c9a13d3c04fa62d3b"
+        textAlignment="1"
+        content="The DP is composed of a Virtual HPC Cluster">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
+      <bounds
+          x="475"
+          y="12"
+          width="161"
+          height="44"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -199,8 +220,8 @@
         id="id-ebb9688a46f8425c86ec567a06a92397"
         targetConnections="id-1d349126c8b247e794c465f6900b36e9">
       <bounds
-          x="10"
-          y="114"
+          x="12"
+          y="123"
           width="97"
           height="43"/>
       <archimateElement
@@ -216,6 +237,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-f9e7a1743afb476bb88a2735df419af7"
+          targetConnections="id-cd3731e999464d578d9805ad6cba40fa"
           source="id-c78cc718ca83454980014057d7fb015c"
           target="id-f96d53fb8fab487bab2f47ed2d3cb078">
         <archimateRelationship
@@ -224,7 +246,7 @@
       </sourceConnections>
       <bounds
           x="132"
-          y="24"
+          y="36"
           width="329"
           height="37"/>
       <archimateElement
@@ -258,7 +280,7 @@
       </sourceConnections>
       <bounds
           x="132"
-          y="99"
+          y="108"
           width="329"
           height="73"/>
       <children
@@ -349,6 +371,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-443499f062564876b0ed9039750d6129"
+          targetConnections="id-e44a1d4368bb4861bd974b9141ded4fb"
           source="id-55d93dab6fc94f1ca5074b7e953f5a8c"
           target="id-aba07d8aa5ae450abeac3971fb8ed600">
         <archimateRelationship
@@ -358,6 +381,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-6af9f57e8209482ea4c57a5112b57ee4"
+          targetConnections="id-590a64f295394fa989ebddff7bc65d2b"
           source="id-55d93dab6fc94f1ca5074b7e953f5a8c"
           target="id-fe889761a7f74d169e09044a001d04cf">
         <archimateRelationship
@@ -365,13 +389,61 @@
             href="ServingRelationship_id-15cc802cb2ba4f7187112aaf72214605.xml#id-15cc802cb2ba4f7187112aaf72214605"/>
       </sourceConnections>
       <bounds
-          x="496"
-          y="120"
+          x="492"
+          y="129"
           width="120"
           height="32"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-c0c05078002d46ec9f763a3bc5c64074.xml#id-c0c05078002d46ec9f763a3bc5c64074"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-e4578da882324d2796beb4a8a6c461f6"
+        textAlignment="1"
+        content="Swarm aggregates DP instances">
+      <features
+          name="deriveElementLineColor"
+          value="false"/>
+      <sourceConnections
+          id="id-cd3731e999464d578d9805ad6cba40fa"
+          source="id-e4578da882324d2796beb4a8a6c461f6"
+          target="id-f9e7a1743afb476bb88a2735df419af7"/>
+      <bounds
+          x="120"
+          y="60"
+          width="97"
+          height="61"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-73f953d434b64c51a3a7341821159d1c"
+      textAlignment="1"
+      content="GRPC serves GEMS instances">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <sourceConnections
+        id="id-e44a1d4368bb4861bd974b9141ded4fb"
+        source="id-73f953d434b64c51a3a7341821159d1c"
+        target="id-443499f062564876b0ed9039750d6129"/>
+    <sourceConnections
+        id="id-9b8c3c844c0249ec88e4659b5d4bd7e0"
+        source="id-73f953d434b64c51a3a7341821159d1c"
+        target="id-cf790f1c8198474ea5628a9796491866"/>
+    <sourceConnections
+        id="id-9ace4958db694aeb996de46fc5c9d49b"
+        source="id-73f953d434b64c51a3a7341821159d1c"
+        target="id-b2314839b7b842dd95efcb5687a0b41b"/>
+    <sourceConnections
+        id="id-590a64f295394fa989ebddff7bc65d2b"
+        source="id-73f953d434b64c51a3a7341821159d1c"
+        target="id-6af9f57e8209482ea4c57a5112b57ee4"/>
+    <bounds
+        x="540"
+        y="204"
+        width="194"
+        height="26"/>
   </children>
 </archimate:ArchimateDiagramModel>
